@@ -35,7 +35,8 @@ Modded
 
 ### Compatibility
 
-Will conflict with any mods that edit the DT_SkillInfomation file.  
+Will conflict with any mods that edit the DT_SkillInfomation file.
+
 Currently conflicts with TYPE's [Bag maximum weight UP mod](https://game-4.tistory.com/22)  
 I highly recommend TYPE's mod if you want a more balanced experience.
 
