@@ -1,6 +1,6 @@
 # Psitegrad's Infinite Backpack for Made in Abyss BSFD  
 
-Massively increase the backpack capacity.  
+Massively increases the backpack capacity.  
 This mod was made following a request.
 
 
